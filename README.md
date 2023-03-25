@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Direct access to the page : https://maziz7508.github.io/Components-AndTemplates-react-app-learning-Basics-/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
